@@ -1,0 +1,10 @@
+GROUP 14
+
+Abdelrahman Ayman
+Mohamed Salah
+Mosab Morgan
+
+
+We have submitted 2 jupyter notebooks for the 2 parts to be able to run the code
+also 2 HTML files to see the results immediateldy
+Finaly 2 py files to run the code in visiual studio code
